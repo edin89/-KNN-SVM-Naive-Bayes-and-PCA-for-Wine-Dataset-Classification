@@ -1,1 +1,3 @@
-# -KNN-SVM-Naive-Bayes-and-PCA-for-Wine-Dataset-Classification
+# KNN-SVM-Naive-Bayes-and-PCA-for-Wine-Dataset-Classification
+
+This project involved the assessment of different machine learning algorithms (KNN, SVM, Naive Bayes) along with Principal Component Analysis (PCA) on the Wine dataset. The tasks included identifying and plotting the related features, determining the optimal number of principal components in PCA, building a KNN classifier with the optimal number of components and tuning K, constructing an SVM classifier with hyperparameter tuning, and developing a Naive Bayes classifier to evaluate its accuracy. Finally, all models were compared to determine the optimum model choice, supported by justifications.
